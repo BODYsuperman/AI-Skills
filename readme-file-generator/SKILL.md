@@ -6,7 +6,7 @@ version: 1.1.0
 author: BODYsuperman
 license: Apache-2.0
 keywords: [documentation, readme, markdown, learning, project, portfolio, technical]
-------------------------------------------------------------------------------------
+---
 
 # README Generator
 
