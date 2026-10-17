@@ -1,6 +1,11 @@
 ---
 name: article-translator
-description: Translate English articles to Simplified Chinese markdown with automatic formatting. This skill should be used when users request "translate article", "翻译文章", provide an English article URL, or provide a local markdown file path for translation. It orchestrates a complete workflow: fetch → translate → format → save, producing structured Chinese markdown in the appropriate location.
+description: >
+  Translate English articles to Simplified Chinese markdown with automatic formatting.
+  This skill should be used when users request "translate article", "翻译文章",
+  provide an English article URL, or provide a local markdown file path for translation.
+  It orchestrates a complete workflow: fetch → translate → format → save,
+  producing structured Chinese markdown in the appropriate location.
 allowed-tools: ["Read", "Glob", "Grep", "Write"]
 version: 1.1.0
 author: BODYsuperman
